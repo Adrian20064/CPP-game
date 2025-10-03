@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include",
+        "C:/msys64/ucrt64/include",
+        "C:/Users/santi/SFML-3.0.2/include",
+        "C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed"
+      ],
+      "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+      "windowsSdkVersion": "10.0.22621.0",
+      "compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++20",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}
